@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"my.example","l":"MainFrame"},{"p":"my.example","l":"NextDayDelivery"},{"p":"my.example","l":"PosEkspres"},{"p":"my.example","l":"PosLajuMalaysia"},{"p":"my.example","l":"PrepaidBoxEnvelope"},{"p":"my.example","l":"Receipt"},{"p":"my.example","l":"SameDayDelivery"}]
